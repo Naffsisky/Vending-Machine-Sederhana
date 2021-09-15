@@ -1,2 +1,2 @@
-# vending-machine-sederhana
-Program sederhana vending machine berbahasa C++
+# Program Vending Machine
+Program sederhana vending machine berbahasa C++, code dibuat menggunakan raptor lalu di convert menjadi bahasa C++
